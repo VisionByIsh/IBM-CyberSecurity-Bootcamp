@@ -1,0 +1,4 @@
+# Runtime scanner uses only Python standard library.
+# These packages power the local and CI security checks.
+bandit>=1.7.9
+pip-audit>=2.7.3
